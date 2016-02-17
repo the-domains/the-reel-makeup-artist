@@ -1,8 +1,19 @@
-layout_spectrum: 0.8470993
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5192533
+  brandStrength: 0.7824919
   lightness: 0.6943396
-  brandStrength: 0.8423971
   brandColors:
     - '#05020E'
     - '#E9CFB4'
@@ -11,4 +22,5 @@ color:
     - '#202E5C'
   rhythmicContrast: 0.6515618
 typography_spectrum: 0.142332
+layout_spectrum: 0.8470993
 name: The Reel Makeup Artist
