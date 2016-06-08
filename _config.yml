@@ -1,5 +1,4 @@
-favicon: null
-name: The Reel Makeup Artist
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -20,21 +19,22 @@ purpose: []
 color:
   saturation: 0.4725209
   brandStrength: 0
-  lightness: 0.5167264
+  lightness: 0.490442
   brandColors:
     - '#05020E'
     - '#E9CFB4'
     - '#F34363'
     - '#775C42'
     - '#202E5C'
-  rhythmicContrast: 0.504779
+  rhythmicContrast: 0.4701314
 typography_spectrum: 0.9468339
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: The Reel Makeup Artist
