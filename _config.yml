@@ -1,40 +1,40 @@
-name: The Reel Makeup Artist
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.9468339
+name: The Reel Makeup Artist
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.4725209
+  brandStrength: 0
+  lightness: 0.5167264
   brandColors:
     - '#05020E'
     - '#E9CFB4'
     - '#F34363'
     - '#775C42'
     - '#202E5C'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.504779
+typography_spectrum: 0.9468339
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
